@@ -3,7 +3,7 @@
 👋 Welcome to your new Foam Workspace!
 
 ## 21 Nov 2022
-Stick to Notion, Logseq and focusing on the essentails why do I need to have another tools again. 
+Stick to Notion, Logseq and focus on the essentials why do I need to have another tools again. 
 
 ## Getting started
 
